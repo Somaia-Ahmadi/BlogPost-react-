@@ -12,6 +12,10 @@ function BlogPost(){
 
                 <p className="blog-desript"> Learn basics of react components and jsx</p>
 
+                <a href="./https://github.com/Somaia-Ahmadi/BlogPost-react-"> My GitHub links</a>
+                <br>
+                </br>
+
                 <button className="btn"> Read more</button>
 
             </div>
